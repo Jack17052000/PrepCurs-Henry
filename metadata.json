@@ -1,0 +1,5 @@
+{
+  "name": "Trenes Rápidos",
+  "description": "A web application for searching and booking train tickets in Spain, featuring a streamlined booking process from search to payment and confirmation.",
+  "requestFramePermissions": []
+}
